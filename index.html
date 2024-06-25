@@ -66,11 +66,14 @@ Full publication list can be found in <a href=https://scholar.google.com/citatio
 <li><p>
 Weiran Wang, Zelin Wu, Diamantino Caseiro, Tsendsuren Munkhdalai, Khe Chai Sim, Pat Rondon, Golan Pundak, Gan Song, Rohit Prabhavalkar, Zhong Meng, Ding Zhao, Tara Sainath, Pedro Moreno Mengibar.
 	Contextual Biasing with the Knuth-Morris-Pratt Matching Algorithm.  <em>Interspeech, 2024.</em> <br>
+<font size="0", color=red>We propose an GPU/TPU implementation of search-based biasing, which was traditionally done with weighted finite state transducers (WFSTs), based on the equivalent KMP string matching algorithm, 
+	which boils down to a few carefully parallelized loops in deep learning frameworks.</font><br>
 [<a href="https://arxiv.org/abs/2310.00178">arXiv version</a>] </p></li>
 
 <li><p>
 Weiran Wang, Rohit Prabhavalkar, Haozhe Shan, Zhong Meng, Dongseong Hwang, Qiujia Li, Khe Chai Sim, Bo Li, James Qin, Xingyu Cai, Adam Stooke, Chengjian Zheng, Yanzhang He, Tara Sainath, Pedro Moreno Mengibar.
 	Massive End-to-end Speech Recognition Models with Time Reduction. <em>NAACL, 2024.</em> <br>
+<font size="0", color=red>For massive ASR models, it is possible to reduce the encoder output frame rate significantly with funnel pooling, without sacreficing recognition accuracy.</font><br>
 [<a href="https://aclanthology.org/2024.naacl-long.344/">link</a>] </p></li>
 
 
@@ -78,23 +81,26 @@ Weiran Wang, Rohit Prabhavalkar, Haozhe Shan, Zhong Meng, Dongseong Hwang, Qiuji
 [<a href="https://arxiv.org/abs/2112.11442">arXiv version</a>] </p></li>
     
 <li><p>Qi Lyu, Xiao Fu, Weiran Wang, and Songtao Lu. Latent Correlation-Based Multiview Learning and Self-Supervision: A Unifying Perspective. <em> ICLR, 2022.</em> <br>
+<font size="0", color=red>We show an example of provable separation of shared vs private components for multi-view self-supervised learning, based on CCA-type matching + reconstruction + independence promoting regularization.</font><br>
 [<a href="https://arxiv.org/abs/2106.07115">arXiv version</a>] </p></li> 
     
 <li><p>Junwen Bai, Weiran Wang, and Carla Gomes. Contrastively Disentangled Sequential Variational Autoencoder. <em> NeurIPS, 2021.</em> <br>
+<font size="0", color=red>We use contrastive mutual information estimation for separating the static component and dynamic component of sequence data.</font><br>
 [<a href="https://arxiv.org/abs/2110.12091">arXiv version</a>] [<a href="https://github.com/JunwenBai/C-DSVAE">implementation</a>] </p></li> 
     
 <li><p>Junwen Bai, Weiran Wang, Yingbo Zhou, and Caiming Xiong. Representation Learning for Sequence Data with Deep Autoencoding Predictive Components. <em>International Conference on Learning Representations (ICLR), 2021.</em> <br>
+<font size="0", color=red>We use predictive information as regularization for representation learning with sequence encoders.</font><br>
 [<a href="https://arxiv.org/abs/2010.03135">arXiv version</a>] [<a href="https://github.com/JunwenBai/DAPC">implementation</a>] </p></li> 
 
 <li><p>Weiran Wang, Guangsen Wang, Aadyot Bhatnagar, Yingbo Zhou, Caiming Xiong, and Richard Socher. An investigation of phone-based subword units for end-to-end speech recognition. <em>Interspeech, 2020.</em> <br>
 <font size="0", color=red>We are the first to investigate phone-based subword units for end-to-end speech recognition.
 	For Switchboard, our phone-based BPE system achieves 6.8%/14.4% word error rate (WER) on the Switchboard/CallHome
-	portion of the test set while joint decoding achieves 6.3%/13.3% WER. <br>
+	portion of the test set while joint decoding achieves 6.3%/13.3% WER.<br>
 On Fisher + Switchboard, joint decoding leads to 4.9%/9.5% WER, setting new milestones for telephony speech recognition. </font><br>
 [<a href="https://arxiv.org/abs/2004.04290">arXiv version</a>] [<a href="https://github.com/salesforce/transformerasr">implementation</a>] </p></li>
     
 <li><p>Yang Chen, Weiran Wang, and Chao Wang. Semi-supervised ASR by End-to-end Self-training. <em>Interspeech, 2020.</em> <br>
-<font size="0", color=red>We are one of the first to perform self-training for end-to-end ASR. </font><br>
+<font size="0", color=red>We are one of the first to perform on-the-fly self-training for end-to-end ASR, where we use pseudo-labels on clean data as targets for the same model on perturbed data. </font><br>
 [<a href="https://arxiv.org/abs/2001.09128">arXiv version</a>] </p></li>
     
 <li><p>Weiran Wang, Qingming Tang, and Karen Livescu. Unsupervised Pre-training of Bidirectional Speech Encoders via Masked Reconstruction. <em>ICASSP, 2020.</em><br>
