@@ -1,0 +1,119 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html401">
+<html>
+  <head>
+    <title>Weiran Wang: Manuals</title>
+    <link rev="made" href="mailto:weiranwang at ttic dot edu">
+    <link rel="stylesheet" type="text/css" href="html-style.css">
+    <meta name="author" content="Weiran Wang">
+    <meta name="copyright" content="&copy; 2010 Weiran Wang">
+    <meta http-equiv="Content-language" content="en">
+
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <meta name="description" content="Personal information about Weiran Wang">
+    <meta name="keywords" content="Weiran Wang">
+    <meta name="keywords" lang="es" content="Weiran Wang">
+    <meta name="robots" content="index, nofollow">
+  </head>
+  
+  <body>
+    
+<h1>Some useful documentations</h1>
+<ul>
+<li><a href="http://www.grymoire.com/Unix/Regular.html">Regular Expressions</a></li>
+<li><a href="http://vimdoc.sourceforge.net/htmldoc/usr_toc.html">Vim Documentation</a></li>
+<li><a href="http://doc.dev.md/lsst/">Linux Shell Scripting Tutorial v1.05r3 -- A Beginner's handbook</a></li>
+<li><a href="manuals/find.pdf">Find</a> and <a href="manuals/grep.pdf">Grep</a>, excerpt from "A Practical Guide to Linux Commands, Editors, and Shell Programming" by Mark G. Sobell</li>
+<li><a href="http://www.xfig.org/userman/frm_printing.html">Xfig User Manual (version 3.2.5)</a></li>
+<li><a href="manuals/psfrag/pfgguide.pdf">Psfrag Documentation</a> by Michael C. Grant and David Carlisle</li>
+<li><a href="manuals/introPST.pdf">Short Introduction to PSTricks</a> and <a href="manuals/pst-doc.pdf">PSTricks Documentation</a></li>
+<li><a href="manuals/textpos.pdf">latex package Textpos</a> </li>
+<li><a href="manuals/fancyhdr.pdf">latex package Fancyhdr</a> </li>
+<li><a href="manuals/natbib.pdf">latex  package Natbib</a></li>
+<li><a href="http://www.accesspdf.com/pdftk/">Pdftk (the pdf tookit)</a></li>
+<li><a href="http://www.cups.org/documentation.php/options.html">Lpr Options</a> </li>
+<li><a href="manuals/secondaxis">Creating a second axis/legend with matlab plot</a></li>
+</ul>
+
+<hr>
+<address> Send email to
+<a href="mailto: weiranwang at ttic dot edu">Weiran Wang</a>.
+</address>
+
+<script 
+  type="text/JavaScript" 
+  language="JavaScript">
+//
+// format date as dd-mmm-yy
+// example: 12-Jan-99
+//
+function date_ddmmmyy(date)
+{
+  var d = date.getDate();
+  var m = date.getMonth() + 1;
+  var y = date.getYear();
+
+  // handle different year values 
+  // returned by IE and NS in 
+  // the year 2000.
+  if(y >= 2000)
+  {
+    y -= 2000;
+  }
+  if(y >= 100)
+  {
+    y -= 100;
+  }
+
+  // could use splitString() here 
+  // but the following method is 
+  // more compatible
+  var mmm = 
+    ( 1==m)?'Jan':( 2==m)?'Feb':(3==m)?'Mar':
+    ( 4==m)?'Apr':( 5==m)?'May':(6==m)?'Jun':
+    ( 7==m)?'Jul':( 8==m)?'Aug':(9==m)?'Sep':
+    (10==m)?'Oct':(11==m)?'Nov':'Dec';
+
+  return "" +
+    (d<10?"0"+d:d) + "-" +
+    mmm + "-" +
+    (y<10?"0"+y:y);
+}
+
+
+//
+// get last modified date of the 
+// current document.
+//
+function date_lastmodified()
+{
+  var lmd = document.lastModified;
+  var s   = "Unknown";
+  var d1;
+
+  // check if we have a valid date
+  // before proceeding
+  if(0 != (d1=Date.parse(lmd)))
+  {
+    s = "" + date_ddmmmyy(new Date(d1));
+  }
+
+  return s;
+}
+
+//
+// finally display the last modified date
+// as DD-MMM-YY
+//
+document.write("This page was updated on " + date_lastmodified() + ".");
+
+</script>
+
+    <p>
+      <small>
+	<a href="http://weiranwang19.github.io">Weiran Wang's Home Page</a>
+      </small>
+    </p>
+  </body>
+</html>
