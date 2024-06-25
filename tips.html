@@ -1,0 +1,137 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html401">
+<html>
+  <head>
+    <title>Weiran Wang: Tips</title>
+    <link rev="made" href="mailto:weiranwang at ttic dot edu">
+    <link rel="stylesheet" type="text/css" href="html-style.css">
+    <meta name="author" content="Weiran Wang">
+    <meta name="copyright" content="&copy; 2010 Weiran Wang">
+    <meta http-equiv="Content-language" content="en">
+
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <meta name="description" content="Personal information about Weiran Wang">
+    <meta name="keywords" content="Weiran Wang">
+    <meta name="keywords" lang="es" content="Weiran Wang">
+    <meta name="robots" content="index, nofollow">
+  </head>
+  
+  <body>
+
+<h1>Some tips for academic life from other people</h1>
+<ul>
+<li><a href="http://www.cs.washington.edu/homes/mernst/advice/write-technical-paper.html">Writing a technical paper</a></li>
+<li><a href="http://www.cs.washington.edu/homes/mernst/advice/giving-talk.html">Giving a technical presentation (giving a talk)</a></li>
+<li><a href="http://www.cs.washington.edu/homes/mernst/advice/review-technical-paper.html">Reviewing a technical paper</a></li>
+<li><a href="http://infolab.stanford.edu/~widom/conference-talks.html">Tips for a Good Conference Talk</a></li>
+<li><a href="http://www.cs.utah.edu/~lepreau/osdi94/keynote/abstract.html">How to Have a Bad Career in Research/Academia</a></li>
+</ul>
+
+<p> "Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But
+there is this gap. For the first couple years you make stuff, it's just not that good. It's trying to be good, it has potential, but it's not. But
+your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this
+phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn't have this special thing
+that we want it to have. We all go through this. And if you are just starting out or you are still in this phase, you gotta know it's normal and
+the most important thing you can do is do a lot of work. Put yourself on a deadline so that every week you will finish one story. It is only by going
+through a volume of work that you will close that gap, and your work will be as good as your ambitions. And I took longer to figure out how to do this
+than anyone I've ever met. It's gonna take a while. It's normal to take a while. You've just gotta fight your way through."
+<br><br>
+--Ira Glass</p>
+
+<p> "Learn for the sake of learning."
+<br><br>
+-- A Probabilistic Theory of Pattern Recognition</p>
+
+<p> "What though the radiance which was once so bright<br>
+Be now for ever taken from my sight<br>
+Though nothing can bring back the hour<br>
+Of splendour in the grass, of glory in the flower<br>
+We will grieve not, rather find<br>
+Strength in what remains behind ..."
+<br><br>
+<!--没有什么能使
+时光倒流
+草原再绿
+花卉再放
+只有在剩余部分
+争取力量-->
+&#27809;&#26377;&#20160;&#20040;&#33021;&#20351;<br>
+&#26102;&#20809;&#20498;&#27969;<br>
+&#33609;&#21407;&#20877;&#32511;<br>
+&#33457;&#21321;&#20877;&#25918;<br>
+&#21482;&#26377;&#22312;&#21097;&#20313;&#37096;&#20998;<br>
+&#20105;&#21462;&#21147;&#37327; 
+<br><br>
+-- Tien-Yien Li </p>
+
+<script 
+  type="text/JavaScript" 
+  language="JavaScript">
+//
+// format date as dd-mmm-yy
+// example: 12-Jan-99
+//
+function date_ddmmmyy(date)
+{
+  var d = date.getDate();
+  var m = date.getMonth() + 1;
+  var y = date.getYear();
+
+  // handle different year values 
+  // returned by IE and NS in 
+  // the year 2000.
+  if(y >= 2000)
+  {
+    y -= 2000;
+  }
+  if(y >= 100)
+  {
+    y -= 100;
+  }
+
+  // could use splitString() here 
+  // but the following method is 
+  // more compatible
+  var mmm = 
+    ( 1==m)?'Jan':( 2==m)?'Feb':(3==m)?'Mar':
+    ( 4==m)?'Apr':( 5==m)?'May':(6==m)?'Jun':
+    ( 7==m)?'Jul':( 8==m)?'Aug':(9==m)?'Sep':
+    (10==m)?'Oct':(11==m)?'Nov':'Dec';
+
+  return "" +
+    (d<10?"0"+d:d) + "-" +
+    mmm + "-" +
+    (y<10?"0"+y:y);
+}
+
+
+//
+// get last modified date of the 
+// current document.
+//
+function date_lastmodified()
+{
+  var lmd = document.lastModified;
+  var s   = "Unknown";
+  var d1;
+
+  // check if we have a valid date
+  // before proceeding
+  if(0 != (d1=Date.parse(lmd)))
+  {
+    s = "" + date_ddmmmyy(new Date(d1));
+  }
+
+  return s;
+}
+
+//
+// finally display the last modified date
+// as DD-MMM-YY
+//
+document.write("This page was updated on " + date_lastmodified() + ".");
+
+</script>
+  </body>
+</html>
