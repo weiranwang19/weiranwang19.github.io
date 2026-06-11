@@ -133,8 +133,8 @@ GAN and Diffusion Models Representation Learning
   * [Scalable Global Optimization via Local Bayesian Optimization](https://papers.nips.cc/paper_files/paper/2019/file/6c990b7aca7bc7058f5e98ea909e924b-Paper.pdf)
   * [A survey and benchmark of high-dimensional Bayesian optimization of discrete sequences](https://arxiv.org/pdf/2406.04739)
   * [Automatic Chemical Design Using a Data-Driven Continuous Representation of MoleculesClick to copy article link](https://pubs.acs.org/doi/10.1021/acscentsci.7b00572)
-  * [Local Latent Space Bayesian Optimization over Structured Inputs]<https://arxiv.org/abs/2201.11872>
-  * [Discovering Many Diverse Solutions with Bayesian Optimization]<https://arxiv.org/abs/2210.10953>
+  * [Local Latent Space Bayesian Optimization over Structured Inputs](https://arxiv.org/abs/2201.11872)
+  * [Discovering Many Diverse Solutions with Bayesian Optimization](https://arxiv.org/abs/2210.10953)
   * [GP overview](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 
 ### 05/14/2025
@@ -143,8 +143,6 @@ GAN and Diffusion Models Representation Learning
 ---
 
 ## Unscheduled / Thematic Topics
-
-### START:
 * [Unsupervised Representation Learning - an Invariant Risk Minimization Perspective](https://arxiv.org/abs/2403.18182)
 * [Efficient Quantification of Multimodal Interaction at Sample Level (ICML 2025)](https://arxiv.org/abs/2506.17248)
 * [Learning from Language Feedback via Variational Policy Distillation](https://arxiv.org/abs/2404.09088)
