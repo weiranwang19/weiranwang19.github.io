@@ -2,6 +2,12 @@
 
 ## Chronological Schedule (Inverse)
 
+### 06/03/2026
+* [Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling](https://arxiv.org/abs/2106.01357)
+
+### 05/29/2026
+* [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
+
 ### 05/20/2026
 * [Partial Information Decomposition via Normalizing Flows in Latent Gaussian Distributions](https://proceedings.neurips.cc/paper_files/paper/2025/file/06f484b5e9ce4e4b0e88ac0f29239201-Paper-Conference.pdf)
 
