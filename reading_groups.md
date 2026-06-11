@@ -1,6 +1,4 @@
-# ML Reading Group Notes
-
-## Chronological Schedule (Inverse)
+<h1 align="center">ML Reading Group Notes</h1>
 
 ### 06/03/2026
 * [Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling](https://arxiv.org/abs/2106.01357)
