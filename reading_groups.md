@@ -149,7 +149,7 @@ GAN and Diffusion Models Representation Learning
 * [A Functional Mirror Descent Perspective on Reinforcement Learning](https://arxiv.org/abs/2404.10300)
 * [DISCRETE VARIATIONAL AUTOENCODING VIA POLICY SEARCH](https://arxiv.org/abs/2403.04859)
 * [Schrödinger Bridge Flow for Unpaired Data Translation(NeurIPS 2024 spotlight)](https://arxiv.org/abs/2405.04859)
-* [Simplified and Generalized Masked Diffusion for Discrete Data]<https://arxiv.org/pdf/2406.04329>
+* [Simplified and Generalized Masked Diffusion for Discrete Data](https://arxiv.org/pdf/2406.04329)
 * [Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry](https://arxiv.org/abs/2307.12868)
 * [Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design](https://arxiv.org/abs/2404.13506)
 * [Risk-Averse Constrained Reinforcement Learning with Optimized Certainty Equivalents](https://neurips.cc/virtual/2025/poster/115294)
@@ -159,10 +159,10 @@ GAN and Diffusion Models Representation Learning
 * [Bi-Level Policy Optimization with Nyström Hypergradients](https://arxiv.org/abs/2404.10697)
 * [PARL: A Unified Framework for Policy Alignment in Reinforcement Learning from Human Feedback(ICLR 2024)](https://openreview.net/forum?id=PARL)
 * [Continuously Augmented Discrete Diffusion model for Categorical Generative Modeling](https://arxiv.org/abs/2404.14725)
-* [simple diffusion: End-to-end diffusion for high resolution images]<https://arxiv.org/pdf/2301.11093>
-* [Progressive Distillation for Fast Sampling of Diffusion Models]<https://arxiv.org/pdf/2202.00512>
-* [dUltra: Ultra-Fast Diffusion Language Models via Reinforcement Learning]<https://arxiv.org/pdf/2512.21446>
-* [Speech-Hands: A Self-Reflection Voice Agentic Approach to Speech Recognition and Audio Reasoning with Omni Perception]<https://arxiv.org/pdf/2601.09413>
+* [simple diffusion: End-to-end diffusion for high resolution images](https://arxiv.org/pdf/2301.11093)
+* [Progressive Distillation for Fast Sampling of Diffusion Models](https://arxiv.org/pdf/2202.00512)
+* [dUltra: Ultra-Fast Diffusion Language Models via Reinforcement Learning](https://arxiv.org/pdf/2512.21446)
+* [Speech-Hands: A Self-Reflection Voice Agentic Approach to Speech Recognition and Audio Reasoning with Omni Perception](https://arxiv.org/pdf/2601.09413)
 
 ### OT, SB, Unpaired:
 * [TreeDSB:Tree-Based Diffusion Schrödinger Bridge with Applications to Wasserstein Barycenters(NeurIPS 2023spotlight)](https://arxiv.org/abs/2306.01235)
@@ -179,23 +179,23 @@ GAN and Diffusion Models Representation Learning
 * [Variational autoencoders and nonlinear ICA: A unifying framework”, AISTATS, 2020](https://arxiv.org/abs/1907.04809)
 
 ### LLM Reasoning:
-* [Deep Think with Confidence]<https://arxiv.org/pdf/2508.15260>
-* [Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains RLVR]<https://arxiv.org/pdf/2508.14029>
-* [Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling]<https://arxiv.org/pdf/2504.13169>
+* [Deep Think with Confidence](https://arxiv.org/pdf/2508.15260)
+* [Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains RLVR](https://arxiv.org/pdf/2508.14029)
+* [Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling](https://arxiv.org/pdf/2504.13169)
 
 ### Intrinsic Dimensionality(manifold learning):
 * [Why We Need New Benchmarks for Local Intrinsic Dimension Estimation](https://openreview.net/forum?id=ZEf03Uunvk)
-* [Emergence of a High-Dimensional Abstraction Phase in Language Transformers]<https://arxiv.org/abs/2405.15471>
-* [The geometry of hidden representations of large transformer models]<https://openreview.net/forum?id=cCYvakU5Ek>
-* [DADApy: Distance-based analysis of data-manifolds in Python]<https://www.sciencedirect.com/science/article/pii/S2666389922002070?via%3Dihub>
-* [The generalized ratios intrinsic dimension estimator]<https://www.nature.com/articles/s41598-022-20991-1>
+* [Emergence of a High-Dimensional Abstraction Phase in Language Transformers](https://arxiv.org/abs/2405.15471)
+* [The geometry of hidden representations of large transformer models](https://openreview.net/forum?id=cCYvakU5Ek)
+* [DADApy: Distance-based analysis of data-manifolds in Python](https://www.sciencedirect.com/science/article/pii/S2666389922002070?via%3Dihub)
+* [The generalized ratios intrinsic dimension estimator](https://www.nature.com/articles/s41598-022-20991-1)
 
 ### Multi-modal pretraining and novel architectures:
-* [EquiAV: Leveraging Equivariance for Audio-Visual Contrastive Learning (ICML 2024)]<https://arxiv.org/abs/2403.09502>
-* [SSLAM: Enhancing Self-Supervised Models with Audio Mixtures for Polyphonic Soundscapes]<https://openreview.net/forum?id=odU59TxdiB>
-* [Contrastive Audio-Visual Masked Autoencoder]<https://arxiv.org/abs/2210.07839>
-* [Audiovisual Masked Autoencoders]<https://arxiv.org/abs/2212.05922>
-* [OmniVec2 -- A Novel Transformer based Network for Large Scale Multimodal and Multitask Learning]<https://arxiv.org/abs/2507.13364>
+* [EquiAV: Leveraging Equivariance for Audio-Visual Contrastive Learning (ICML 2024)](https://arxiv.org/abs/2403.09502)
+* [SSLAM: Enhancing Self-Supervised Models with Audio Mixtures for Polyphonic Soundscapes](https://openreview.net/forum?id=odU59TxdiB)
+* [Contrastive Audio-Visual Masked Autoencoder](https://arxiv.org/abs/2210.07839)
+* [Audiovisual Masked Autoencoders](https://arxiv.org/abs/2212.05922)
+* [OmniVec2 -- A Novel Transformer based Network for Large Scale Multimodal and Multitask Learning](https://arxiv.org/abs/2507.13364)
 
 ### MMLS 2025(TBD):
 * [Improved Approximation Algorithms for Relational Clustering](https://arxiv.org/abs/2405.02341)
