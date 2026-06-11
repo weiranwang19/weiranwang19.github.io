@@ -132,7 +132,7 @@ GAN and Diffusion Models Representation Learning
   * [Sample-Efficient Optimization in the Latent Space of Deep Generative Models via Weighted Retraining](https://papers.nips.cc/paper_files/paper/2020/file/81e3225c6ad49623167a4309eb4b2e75-Paper.pdf)
   * [Scalable Global Optimization via Local Bayesian Optimization](https://papers.nips.cc/paper_files/paper/2019/file/6c990b7aca7bc7058f5e98ea909e924b-Paper.pdf)
   * [A survey and benchmark of high-dimensional Bayesian optimization of discrete sequences](https://arxiv.org/pdf/2406.04739)
-  * [Automatic Chemical Design Using a Data-Driven Continuous Representation of MoleculesClick to copy article link](https://pubs.acs.org/doi/10.1021/acscentsci.7b00572)
+  * [Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules](https://pubs.acs.org/doi/10.1021/acscentsci.7b00572)
   * [Local Latent Space Bayesian Optimization over Structured Inputs](https://arxiv.org/abs/2201.11872)
   * [Discovering Many Diverse Solutions with Bayesian Optimization](https://arxiv.org/abs/2210.10953)
   * [GP overview](https://distill.pub/2019/visual-exploration-gaussian-processes/)
@@ -147,8 +147,8 @@ GAN and Diffusion Models Representation Learning
 * [Efficient Quantification of Multimodal Interaction at Sample Level (ICML 2025)](https://arxiv.org/abs/2506.17248)
 * [Learning from Language Feedback via Variational Policy Distillation](https://arxiv.org/abs/2404.09088)
 * [A Functional Mirror Descent Perspective on Reinforcement Learning](https://arxiv.org/abs/2404.10300)
-* [DISCRETE VARIATIONAL AUTOENCODING VIA POLICY SEARCH](https://arxiv.org/abs/2403.04859)
-* [Schrödinger Bridge Flow for Unpaired Data Translation(NeurIPS 2024 spotlight)](https://arxiv.org/abs/2405.04859)
+* [Discrete Variational Autoencoding via Policy Search](https://arxiv.org/abs/2509.24716)
+* [Schrödinger Bridge Flow for Unpaired Data Translation (NeurIPS 2024 spotlight)](https://arxiv.org/abs/2405.04859)
 * [Simplified and Generalized Masked Diffusion for Discrete Data](https://arxiv.org/pdf/2406.04329)
 * [Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry](https://arxiv.org/abs/2307.12868)
 * [Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design](https://arxiv.org/abs/2404.13506)
@@ -157,7 +157,7 @@ GAN and Diffusion Models Representation Learning
 * [Revolutionizing Reinforcement Learning Framework for Diffusion Large Language Models](https://arxiv.org/abs/2509.06949v1)
 * [Training diffusion models with reinforcement learning](https://arxiv.org/abs/2305.13301)
 * [Bi-Level Policy Optimization with Nyström Hypergradients](https://arxiv.org/abs/2404.10697)
-* [PARL: A Unified Framework for Policy Alignment in Reinforcement Learning from Human Feedback(ICLR 2024)](https://openreview.net/forum?id=PARL)
+* [PARL: A Unified Framework for Policy Alignment in Reinforcement Learning from Human Feedback (ICLR 2024)](https://openreview.net/forum?id=PARL)
 * [Continuously Augmented Discrete Diffusion model for Categorical Generative Modeling](https://arxiv.org/abs/2404.14725)
 * [simple diffusion: End-to-end diffusion for high resolution images](https://arxiv.org/pdf/2301.11093)
 * [Progressive Distillation for Fast Sampling of Diffusion Models](https://arxiv.org/pdf/2202.00512)
@@ -165,9 +165,9 @@ GAN and Diffusion Models Representation Learning
 * [Speech-Hands: A Self-Reflection Voice Agentic Approach to Speech Recognition and Audio Reasoning with Omni Perception](https://arxiv.org/pdf/2601.09413)
 
 ### OT, SB, Unpaired:
-* [TreeDSB:Tree-Based Diffusion Schrödinger Bridge with Applications to Wasserstein Barycenters(NeurIPS 2023spotlight)](https://arxiv.org/abs/2306.01235)
-* [Diffusion Schrödinger Bridge Matching(NeurIPS 2023)](https://arxiv.org/abs/2303.16852)
-* [Entropic Neural Optimal Transport via Diffusion Processes(NeurIPS 2023 oral)](https://arxiv.org/abs/2311.04258)
+* [TreeDSB:Tree-Based Diffusion Schrödinger Bridge with Applications to Wasserstein Barycenters (NeurIPS 2023 spotlight)](https://arxiv.org/abs/2306.01235)
+* [Diffusion Schrödinger Bridge Matching (NeurIPS 2023)](https://arxiv.org/abs/2303.16852)
+* [Entropic Neural Optimal Transport via Diffusion Processes (NeurIPS 2023 oral)](https://arxiv.org/abs/2311.04258)
 
 ### Disentanglement:
 * [Separating common from salient patterns with Contrastive Representation Learning, ICLR 2024.](https://arxiv.org/pdf/2402.11928)
@@ -199,13 +199,13 @@ GAN and Diffusion Models Representation Learning
 
 ### MMLS 2025(TBD):
 * [Improved Approximation Algorithms for Relational Clustering](https://arxiv.org/abs/2405.02341)
-* [OASIS UNCOVERS: HIGH-QUALITY T2I MODELS, SAME OLD STEREOTYPES(ICLR 2025 spotlight)](https://arxiv.org/abs/2405.02341)
+* [OASIS UNCOVERS: HIGH-QUALITY T2I MODELS, SAME OLD STEREOTYPES (ICLR 2025 spotlight)](https://arxiv.org/abs/2405.02341)
 * [Needle: A Generative AI-Powered Multi-modal Database for Answering Complex Natural Language Queries](https://arxiv.org/abs/2405.02341)
 * [AHA: Human-Assisted Out-of-Distribution Generalization and Detection](https://arxiv.org/abs/2405.02341)
 * [Adversarial Agents: Black-Box Evasion Attacks with Reinforcement Learning](https://arxiv.org/abs/2405.02341)
 * [Hypothesis Generation with Large Language Models (ACL)](https://arxiv.org/abs/2405.02341)
-* [CoInD: Enabling Logical Compositions in Diffusion Models(MMLS 2025; ICLR 2025)](https://arxiv.org/abs/2405.02341)
-* [Learning Multimodal VAEs through Mutual Supervision(MEME,MMLS 2025; ICLR 2022 Spotlight)](https://openreview.net/forum?id=MEME)
+* [CoInD: Enabling Logical Compositions in Diffusion Models (MMLS 2025; ICLR 2025)](https://arxiv.org/abs/2405.02341)
+* [Learning Multimodal VAEs through Mutual Supervision (MMLS 2025; ICLR 2022 Spotlight)](https://openreview.net/forum?id=MEME)
 
 ### General time series modeling:
 * [Utilizing image transforms and diffusion models for generative modeling of short and long time series, NeurIPS 2024]
