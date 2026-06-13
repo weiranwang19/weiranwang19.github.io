@@ -143,6 +143,7 @@ GAN and Diffusion Models Representation Learning
 ---
 
 ## Unscheduled / Thematic Topics
+* [Better Diffusion Models Further Improve Adversarial Training](https://arxiv.org/pdf/2302.04638)
 * [Unsupervised Representation Learning - an Invariant Risk Minimization Perspective](https://arxiv.org/abs/2403.18182)
 * [Efficient Quantification of Multimodal Interaction at Sample Level (ICML 2025)](https://arxiv.org/abs/2506.17248)
 * [Learning from Language Feedback via Variational Policy Distillation](https://arxiv.org/abs/2404.09088)
