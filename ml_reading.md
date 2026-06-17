@@ -1,5 +1,9 @@
 <h1 align="center">ML Reading Group</h1>
 
+### 07/01/2026
+* [Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design](https://arxiv.org/abs/2404.13506)
+* [Training Diffusion Models with Reinforcement Learning](https://arxiv.org/abs/2305.13301)
+
 ### 06/03/2026
 * [Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling](https://arxiv.org/abs/2106.01357)
 
@@ -152,11 +156,9 @@ GAN and Diffusion Models Representation Learning
 * [Schrödinger Bridge Flow for Unpaired Data Translation (NeurIPS 2024 spotlight)](https://arxiv.org/abs/2405.04859)
 * [Simplified and Generalized Masked Diffusion for Discrete Data](https://arxiv.org/pdf/2406.04329)
 * [Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry](https://arxiv.org/abs/2307.12868)
-* [Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design](https://arxiv.org/abs/2404.13506)
 * [Risk-Averse Constrained Reinforcement Learning with Optimized Certainty Equivalents](https://neurips.cc/virtual/2025/poster/115294)
 * [Stable Preference Optimization: A Bilevel Approach to Catastrophic Preference Shift](https://arxiv.org/abs/2507.07723)
 * [Revolutionizing Reinforcement Learning Framework for Diffusion Large Language Models](https://arxiv.org/abs/2509.06949v1)
-* [Training diffusion models with reinforcement learning](https://arxiv.org/abs/2305.13301)
 * [Bi-Level Policy Optimization with Nyström Hypergradients](https://arxiv.org/abs/2404.10697)
 * [PARL: A Unified Framework for Policy Alignment in Reinforcement Learning from Human Feedback (ICLR 2024)](https://openreview.net/forum?id=PARL)
 * [Continuously Augmented Discrete Diffusion model for Categorical Generative Modeling](https://arxiv.org/abs/2404.14725)
