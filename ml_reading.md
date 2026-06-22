@@ -1,5 +1,9 @@
 <h1 align="center">ML Reading Group</h1>
 
+### 07/08/2026
+* [InfoDiffusion: representation learning using information maximizing diffusion models (ICML 2023)](https://arxiv.org/abs/2306.08757)
+* [Textual Semantics Matters: Unsupervised Representation Disentanglement in Realistic Scenarios with Language Inductive Bias](https://ieeexplore.ieee.org/abstract/document/11374375)
+
 ### 07/01/2026
 * [Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design](https://arxiv.org/abs/2404.13506)
 * [Training Diffusion Models with Reinforcement Learning](https://arxiv.org/abs/2305.13301)
