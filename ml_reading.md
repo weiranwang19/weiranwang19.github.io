@@ -1,11 +1,11 @@
 <h1 align="center">ML Reading Group</h1>
 
 ### 07/08/2026
-* [InfoDiffusion: representation learning using information maximizing diffusion models (ICML 2023)](https://arxiv.org/abs/2306.08757)
-* [Textual Semantics Matters: Unsupervised Representation Disentanglement in Realistic Scenarios with Language Inductive Bias](https://ieeexplore.ieee.org/abstract/document/11374375)
+* [Unsupervised Representation Learning - an Invariant Risk Minimization Perspective](https://arxiv.org/abs/2403.18182)
+* [Efficient Quantification of Multimodal Interaction at Sample Level (ICML 2025)](https://arxiv.org/abs/2506.17248)
 
 ### 07/01/2026
-* [Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design](https://arxiv.org/abs/2404.13506)
+* [Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design](https://arxiv.org/abs/2410.13643)
 * [Training Diffusion Models with Reinforcement Learning](https://arxiv.org/abs/2305.13301)
 
 ### 06/03/2026
@@ -152,8 +152,6 @@ GAN and Diffusion Models Representation Learning
 
 ## Unscheduled / Thematic Topics
 * [Better Diffusion Models Further Improve Adversarial Training](https://arxiv.org/pdf/2302.04638)
-* [Unsupervised Representation Learning - an Invariant Risk Minimization Perspective](https://arxiv.org/abs/2403.18182)
-* [Efficient Quantification of Multimodal Interaction at Sample Level (ICML 2025)](https://arxiv.org/abs/2506.17248)
 * [Learning from Language Feedback via Variational Policy Distillation](https://arxiv.org/abs/2404.09088)
 * [A Functional Mirror Descent Perspective on Reinforcement Learning](https://arxiv.org/abs/2404.10300)
 * [Discrete Variational Autoencoding via Policy Search](https://arxiv.org/abs/2509.24716)
