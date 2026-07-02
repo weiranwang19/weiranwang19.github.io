@@ -1,6 +1,9 @@
 <h1 align="center">ML Reading Group</h1>
 * [Efficient Quantification of Multimodal Interaction at Sample Level (ICML 2025)](https://arxiv.org/abs/2506.17248)
 
+### 07/29/2026
+* [Estimating the Unique Information of Continuous Variables (NeurIPS 2021)](https://arxiv.org/pdf/2102.00218)
+
 ### 07/08/2026
 * [Unsupervised Representation Learning - an Invariant Risk Minimization Perspective](https://arxiv.org/abs/2403.18182)
 * [Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design](https://arxiv.org/abs/2410.13643)
