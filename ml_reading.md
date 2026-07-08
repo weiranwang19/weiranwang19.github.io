@@ -1,11 +1,15 @@
 <h1 align="center">ML Reading Group</h1>
-* [Efficient Quantification of Multimodal Interaction at Sample Level (ICML 2025)](https://arxiv.org/abs/2506.17248)
+
 
 ### 07/29/2026
 * [Estimating the Unique Information of Continuous Variables (NeurIPS 2021)](https://arxiv.org/pdf/2102.00218)
 
+### 07/15/2026
+* [Don’t Let Gains FADE: Breaking Down Policy Gradient Weights in RL](https://arxiv.org/pdf/2607.01490)
+* [Efficient Quantification of Multimodal Interaction at Sample Level (ICML 2025)](https://arxiv.org/abs/2506.17248)
+
 ### 07/08/2026
-* [Unsupervised Representation Learning - an Invariant Risk Minimization Perspective](https://arxiv.org/abs/2403.18182)
+* [Unsupervised Representation Learning - an Invariant Risk Minimization Perspective](https://arxiv.org/abs/2505.12506)
 * [Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design](https://arxiv.org/abs/2410.13643)
 
 ### 07/01/2026
@@ -171,7 +175,6 @@ GAN and Diffusion Models Representation Learning
 * [simple diffusion: End-to-end diffusion for high resolution images](https://arxiv.org/pdf/2301.11093)
 * [Progressive Distillation for Fast Sampling of Diffusion Models](https://arxiv.org/pdf/2202.00512)
 * [dUltra: Ultra-Fast Diffusion Language Models via Reinforcement Learning](https://arxiv.org/pdf/2512.21446)
-* [Speech-Hands: A Self-Reflection Voice Agentic Approach to Speech Recognition and Audio Reasoning with Omni Perception](https://arxiv.org/pdf/2601.09413)
 
 ### OT, SB, Unpaired:
 * [TreeDSB:Tree-Based Diffusion Schrödinger Bridge with Applications to Wasserstein Barycenters (NeurIPS 2023 spotlight)](https://arxiv.org/abs/2306.01235)
