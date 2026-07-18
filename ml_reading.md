@@ -1,9 +1,13 @@
 <h1 align="center">ML Reading Group</h1>
 
+* [InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models](https://arxiv.org/abs/2306.08757)
 
 ### 07/29/2026
 * [Estimating the Unique Information of Continuous Variables (NeurIPS 2021)](https://arxiv.org/pdf/2102.00218)
 
+### 07/22/2026
+* [Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models](https://arxiv.org/abs/2512.02636)
+ 
 ### 07/15/2026
 * [Don’t Let Gains FADE: Breaking Down Policy Gradient Weights in RL](https://arxiv.org/pdf/2607.01490)
 * [Efficient Quantification of Multimodal Interaction at Sample Level (ICML 2025)](https://arxiv.org/abs/2506.17248)
@@ -201,13 +205,6 @@ GAN and Diffusion Models Representation Learning
 * [The geometry of hidden representations of large transformer models](https://openreview.net/forum?id=cCYvakU5Ek)
 * [DADApy: Distance-based analysis of data-manifolds in Python](https://www.sciencedirect.com/science/article/pii/S2666389922002070?via%3Dihub)
 * [The generalized ratios intrinsic dimension estimator](https://www.nature.com/articles/s41598-022-20991-1)
-
-### Multi-modal pretraining and novel architectures:
-* [EquiAV: Leveraging Equivariance for Audio-Visual Contrastive Learning (ICML 2024)](https://arxiv.org/abs/2403.09502)
-* [SSLAM: Enhancing Self-Supervised Models with Audio Mixtures for Polyphonic Soundscapes](https://openreview.net/forum?id=odU59TxdiB)
-* [Contrastive Audio-Visual Masked Autoencoder](https://arxiv.org/abs/2210.07839)
-* [Audiovisual Masked Autoencoders](https://arxiv.org/abs/2212.05922)
-* [OmniVec2 -- A Novel Transformer based Network for Large Scale Multimodal and Multitask Learning](https://arxiv.org/abs/2507.13364)
 
 ### MMLS 2025(TBD):
 * [Improved Approximation Algorithms for Relational Clustering](https://arxiv.org/abs/2405.02341)
