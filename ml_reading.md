@@ -2,7 +2,12 @@
 
 ### 08/?/2026
 * [Estimating the Unique Information of Continuous Variables (NeurIPS 2021)](https://arxiv.org/pdf/2102.00218)
-  
+
+### 08/12/2026
+* [CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer (ICLR 2025)](https://arxiv.org/abs/2408.06072)
+* [VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking (CVPR 2023)](https://arxiv.org/pdf/2303.16727)
+* [VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models (NeurIPS 2025)](https://arxiv.org/abs/2505.23656)
+
 ### 08/05/2026
 * [Partial Information Decomposition via Deficiency for Multivariate Gaussians](https://arxiv.org/abs/2105.00769)
 * [InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models](https://arxiv.org/abs/2306.08757)
