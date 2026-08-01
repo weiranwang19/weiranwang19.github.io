@@ -1,5 +1,7 @@
 <h1 align="center">ML Reading Group</h1>
 
+Diffusion model with cross attention as an inductive bias for disentanglement
+
 ### 08/?/2026
 * [Estimating the Unique Information of Continuous Variables (NeurIPS 2021)](https://arxiv.org/pdf/2102.00218)
 
