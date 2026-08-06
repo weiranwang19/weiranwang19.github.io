@@ -1,13 +1,12 @@
 <h1 align="center">ML Reading Group</h1>
 
-
-
 ### 08/?/2026
 * [Estimating the Unique Information of Continuous Variables (NeurIPS 2021)](https://arxiv.org/pdf/2102.00218)
 
 ### 08/19/2026
 * [Deep Information-Balanced Multimodal Learning (PAMI 2026)](https://github.com/QinYang79/IBML)
 * [Diffusion model with cross attention as an inductive bias for disentanglement](https://arxiv.org/abs/2402.09712)
+* [Flow Matching Policy Gradients](https://arxiv.org/abs/2507.21053)
 
 ### 08/12/2026
 * [CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer (ICLR 2025)](https://arxiv.org/abs/2408.06072)
