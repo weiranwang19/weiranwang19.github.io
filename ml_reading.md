@@ -17,6 +17,7 @@
 ### 08/05/2026
 * [Partial Information Decomposition via Deficiency for Multivariate Gaussians](https://arxiv.org/abs/2105.00769)
 * [InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models](https://arxiv.org/abs/2306.08757)
+* [InfoVAE: Information Maximizing Variational Autoencoders](https://arxiv.org/abs/1706.02262)
 
 ### 07/22/2026
 * [Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models](https://arxiv.org/abs/2512.02636)
