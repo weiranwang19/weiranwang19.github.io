@@ -1,9 +1,12 @@
 <h1 align="center">ML Reading Group</h1>
 
-DecompRL: Solving Harder Problems by Learning Modular Code Generation
+
 
 ### 08/?/2026
 * [Estimating the Unique Information of Continuous Variables (NeurIPS 2021)](https://arxiv.org/pdf/2102.00218)
+
+### 08/26/2026
+* [DecompRL: Solving Harder Problems by Learning Modular Code Generation](https://arxiv.org/abs/2607.02390)
 
 ### 08/19/2026
 * [Deep Information-Balanced Multimodal Learning (PAMI 2026)](https://github.com/QinYang79/IBML)
