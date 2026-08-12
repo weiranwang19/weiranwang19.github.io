@@ -5,12 +5,13 @@
 ### 08/?/2026
 * [Estimating the Unique Information of Continuous Variables (NeurIPS 2021)](https://arxiv.org/pdf/2102.00218)
 
-### 08/26/2026
+### 08/26/2026 ??
+* [Diffusion model with cross attention as an inductive bias for disentanglement](https://arxiv.org/abs/2402.09712)
 * [DecompRL: Solving Harder Problems by Learning Modular Code Generation](https://arxiv.org/abs/2607.02390)
 
 ### 08/19/2026
 * [Deep Information-Balanced Multimodal Learning (PAMI 2026)](https://github.com/QinYang79/IBML)
-* [Diffusion model with cross attention as an inductive bias for disentanglement](https://arxiv.org/abs/2402.09712)
+* [Reinforcement Learning with Verifiable Rewards Implicitly Incentivizes Correct Reasoning in Base LLMs](https://openreview.net/forum?id=jGbRWwIidy)
 * [Flow Matching Policy Gradients](https://arxiv.org/abs/2507.21053)
 
 ### 08/12/2026
