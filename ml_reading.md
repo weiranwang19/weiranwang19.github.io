@@ -2,9 +2,10 @@
 
 ### 09/03/2026
 * [Estimating the Unique Information of Continuous Variables (NeurIPS 2021)](https://arxiv.org/pdf/2102.00218)
+* [Diffusion model with cross attention as an inductive bias for disentanglement](https://arxiv.org/abs/2402.09712)
 
 ### 08/27/2026
-* [Diffusion model with cross attention as an inductive bias for disentanglement](https://arxiv.org/abs/2402.09712)
+* [Multimodal Learning Without Labeled Multimodal Data: Guarantees and Applications (ICLR 2024)](https://arxiv.org/abs/2306.04539)
 * [DecompRL: Solving Harder Problems by Learning Modular Code Generation](https://arxiv.org/abs/2607.02390)
 
 ### 08/19/2026
