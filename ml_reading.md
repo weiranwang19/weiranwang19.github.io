@@ -1,5 +1,13 @@
 <h1 align="center">ML Reading Group</h1>
 
+* [A Functional Mirror Descent Perspective on Reinforcement Learning](https://arxiv.org/abs/2404.10300)
+
+### 09/10/2026
+Discrete Diffusion Models:
+SEDD
+Campbell
+Policy Gradient
+
 ### 09/03/2026
 * [Estimating the Unique Information of Continuous Variables (NeurIPS 2021)](https://arxiv.org/pdf/2102.00218)
 * [Diffusion model with cross attention as an inductive bias for disentanglement](https://arxiv.org/abs/2402.09712)
@@ -183,7 +191,6 @@ GAN and Diffusion Models Representation Learning
 ## Unscheduled / Thematic Topics
 * [Better Diffusion Models Further Improve Adversarial Training](https://arxiv.org/pdf/2302.04638)
 * [Learning from Language Feedback via Variational Policy Distillation](https://arxiv.org/abs/2404.09088)
-* [A Functional Mirror Descent Perspective on Reinforcement Learning](https://arxiv.org/abs/2404.10300)
 * [Discrete Variational Autoencoding via Policy Search](https://arxiv.org/abs/2509.24716)
 * [Schrödinger Bridge Flow for Unpaired Data Translation (NeurIPS 2024 spotlight)](https://arxiv.org/abs/2405.04859)
 * [Simplified and Generalized Masked Diffusion for Discrete Data](https://arxiv.org/pdf/2406.04329)
