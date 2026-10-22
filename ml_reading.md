@@ -1,16 +1,22 @@
 <h1 align="center">ML Reading Group</h1>
 
-* [A Functional Mirror Descent Perspective on Reinforcement Learning](https://arxiv.org/abs/2404.10300)
+### 10/15/2026
+* [Set-CLIP: Exploring Aligned Semantic From Low-Alignment Multimodal Data Through A Distribution View](https://arxiv.org/pdf/2406.05766)
+* [CycleDiff: Cycle Diffusion Models for Unpaired Image-to-image Translation](https://arxiv.org/abs/2508.06625)
+
+### 10/08/2026
+* [Unpaired Image-to-Image Translation via a Self-Supervised Semantic Bridge](https://arxiv.org/pdf/2602.16664v1)
+
+### 10/01/2026
+* [VALG: An Agentic System for ML Theory Research and Demonstrations on COLT 2026 Open Problems](https://arxiv.org/pdf/2608.13060)
 
 ### 09/10/2026
-Discrete Diffusion Models:
-SEDD
-Campbell
-Policy Gradient
+* [Getting More Juice Out of the SFT Data: Reward Learning from Human Demonstration Improves SFT for LLM Alignment (NeurIPS 2024)](https://arxiv.org/pdf/2405.17888)
+* [Understanding Representation Dynamics of Diffusion Models via Low-Dimensional Modeling](https://arxiv.org/abs/2402.09712)
 
 ### 09/03/2026
 * [Estimating the Unique Information of Continuous Variables (NeurIPS 2021)](https://arxiv.org/pdf/2102.00218)
-* [Diffusion model with cross attention as an inductive bias for disentanglement](https://arxiv.org/abs/2402.09712)
+* [Diffusion model with cross attention as an inductive bias for disentanglement](https://arxiv.org/pdf/2502.05743)
 
 ### 08/27/2026
 * [Multimodal Learning Without Labeled Multimodal Data: Guarantees and Applications (ICLR 2024)](https://arxiv.org/abs/2306.04539)
@@ -204,6 +210,7 @@ GAN and Diffusion Models Representation Learning
 * [simple diffusion: End-to-end diffusion for high resolution images](https://arxiv.org/pdf/2301.11093)
 * [Progressive Distillation for Fast Sampling of Diffusion Models](https://arxiv.org/pdf/2202.00512)
 * [dUltra: Ultra-Fast Diffusion Language Models via Reinforcement Learning](https://arxiv.org/pdf/2512.21446)
+* [A Functional Mirror Descent Perspective on Reinforcement Learning](https://arxiv.org/abs/2404.10300)
 
 ### OT, SB, Unpaired:
 * [TreeDSB:Tree-Based Diffusion Schrödinger Bridge with Applications to Wasserstein Barycenters (NeurIPS 2023 spotlight)](https://arxiv.org/abs/2306.01235)
