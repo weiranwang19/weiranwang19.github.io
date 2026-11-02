@@ -1,5 +1,6 @@
 <h1 align="center">ML Reading Group</h1>
 
+stochastic interpolant
 https://arxiv.org/pdf/2603.22283
 MUNI: Multimodal unified latent diffusion for coherent any-to-any generation.
 
