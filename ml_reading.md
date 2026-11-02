@@ -1,5 +1,8 @@
 <h1 align="center">ML Reading Group</h1>
 
+https://arxiv.org/pdf/2603.22283
+MUNI: Multimodal unified latent diffusion for coherent any-to-any generation.
+
 ### 10/15/2026
 * [Set-CLIP: Exploring Aligned Semantic From Low-Alignment Multimodal Data Through A Distribution View](https://arxiv.org/pdf/2406.05766)
 * [CycleDiff: Cycle Diffusion Models for Unpaired Image-to-image Translation](https://arxiv.org/abs/2508.06625)
